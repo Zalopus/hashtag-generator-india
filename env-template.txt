@@ -12,7 +12,7 @@
 
 # Database Configuration
 MONGODB_URI=mongodb://localhost:27017/hashtag-generator-india
-# For production: mongodb+srv://username:password@cluster.mongodb.net/hashtag-generator
+# For production: mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/hashtag-generator
 
 # JWT Secret (Generate a strong random string)
 JWT_SECRET=your-super-secret-jwt-key-here

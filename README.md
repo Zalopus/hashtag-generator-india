@@ -64,7 +64,7 @@ A comprehensive hashtag generator specifically designed for Indian social media 
    
    Update `.env.local` with your configuration:
    ```env
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/hashtag-generator?retryWrites=true&w=majority
+   MONGODB_URI=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/hashtag-generator?retryWrites=true&w=majority
    JWT_SECRET=your-super-secret-jwt-key-here
    NEXTAUTH_URL=http://localhost:3000
    NEXTAUTH_SECRET=your-nextauth-secret-here

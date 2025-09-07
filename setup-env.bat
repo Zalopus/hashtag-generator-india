@@ -1,7 +1,7 @@
 @echo off
 echo Creating .env.local file...
 echo # Database > .env.local
-echo MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/hashtag-generator?retryWrites=true^&w=majority >> .env.local
+echo MONGODB_URI=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/hashtag-generator?retryWrites=true^&w=majority >> .env.local
 echo. >> .env.local
 echo # JWT Secret >> .env.local
 echo JWT_SECRET=your-super-secret-jwt-key-here-make-it-long-and-random >> .env.local
