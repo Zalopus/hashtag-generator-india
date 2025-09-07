@@ -1,0 +1,53 @@
+# ========================================
+# 🔒 SECURE ENVIRONMENT VARIABLES TEMPLATE
+# ========================================
+# 
+# ⚠️  IMPORTANT: 
+# 1. Copy this file to .env.local
+# 2. Replace all "your_*_here" with real values
+# 3. NEVER commit .env.local to git
+# 4. Add .env.local to .gitignore
+#
+# ========================================
+
+# Database Configuration
+MONGODB_URI=mongodb://localhost:27017/hashtag-generator-india
+# For production: mongodb+srv://username:password@cluster.mongodb.net/hashtag-generator
+
+# JWT Secret (Generate a strong random string)
+JWT_SECRET=your-super-secret-jwt-key-here
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_SECRET=your-nextauth-secret-here
+
+# ========================================
+# 🔑 API KEYS (Get these from respective platforms)
+# ========================================
+
+# Twitter API (X)
+# Get from: https://developer.twitter.com/
+TWITTER_BEARER_TOKEN=your_twitter_bearer_token_here
+
+# Meta (Facebook & Instagram)
+# Get from: https://developers.facebook.com/
+FACEBOOK_ACCESS_TOKEN=your_facebook_access_token_here
+INSTAGRAM_ACCESS_TOKEN=your_instagram_access_token_here
+
+# YouTube Data API
+# Get from: https://console.cloud.google.com/
+YOUTUBE_API_KEY=your_youtube_api_key_here
+
+# ========================================
+# 💰 MONETIZATION
+# ========================================
+
+# Google AdSense
+# Get from: https://adsense.google.com/
+GOOGLE_ADSENSE_PUBLISHER_ID=ca-pub-XXXXXXXXXXXXXXXX
+
+# ========================================
+# 🚀 DEPLOYMENT
+# ========================================
+
+# Vercel (Auto-set by Vercel)
+VERCEL_URL=your-app.vercel.app
+VERCEL_ENV=production
