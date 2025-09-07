@@ -22,19 +22,19 @@ export default function FestivalsPage() {
     const mockFestivals: Festival[] = [
       {
         name: 'Diwali',
-        date: 'November 1, 2024',
+        date: 'November 1, 2025',
         hashtags: ['diwali', 'festivaloflights', 'deepavali', 'indianfestival', 'celebration', 'lights', 'rangoli'],
         description: 'The festival of lights celebrated across India'
       },
       {
         name: 'Holi',
-        date: 'March 25, 2024',
+        date: 'March 25, 2025',
         hashtags: ['holi', 'festivalofcolors', 'colorful', 'spring', 'celebration', 'fun', 'colors'],
         description: 'The festival of colors marking the arrival of spring'
       },
       {
         name: 'Dussehra',
-        date: 'October 12, 2024',
+        date: 'October 12, 2025',
         hashtags: ['dussehra', 'vijayadashami', 'victory', 'goodoverevil', 'celebration', 'indianfestival'],
         description: 'Celebration of victory of good over evil'
       }

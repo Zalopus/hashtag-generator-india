@@ -87,70 +87,70 @@ const sampleHashtags = [
 const indianFestivals = [
   {
     name: 'Diwali',
-    date: new Date('2024-11-01'),
+    date: new Date('2025-11-01'),
     hashtags: ['diwali', 'festivaloflights', 'deepavali', 'indianfestival', 'celebration', 'lights', 'rangoli', 'laxmi', 'festival'],
     description: 'The festival of lights celebrated across India',
     active: true
   },
   {
     name: 'Holi',
-    date: new Date('2024-03-25'),
+    date: new Date('2025-03-25'),
     hashtags: ['holi', 'festivalofcolors', 'colorful', 'spring', 'celebration', 'fun', 'colors', 'festival', 'indianfestival'],
     description: 'The festival of colors marking the arrival of spring',
     active: true
   },
   {
     name: 'Dussehra',
-    date: new Date('2024-10-12'),
+    date: new Date('2025-10-12'),
     hashtags: ['dussehra', 'vijayadashami', 'victory', 'goodoverevil', 'celebration', 'indianfestival', 'ramayana', 'festival'],
     description: 'Celebration of victory of good over evil',
     active: true
   },
   {
     name: 'Eid',
-    date: new Date('2024-04-10'),
+    date: new Date('2025-04-10'),
     hashtags: ['eid', 'eidmubarak', 'ramadan', 'festival', 'celebration', 'muslimfestival', 'islamic', 'festival'],
     description: 'Islamic festival marking the end of Ramadan',
     active: true
   },
   {
     name: 'Christmas',
-    date: new Date('2024-12-25'),
+    date: new Date('2025-12-25'),
     hashtags: ['christmas', 'xmas', 'festival', 'celebration', 'joy', 'peace', 'christianfestival', 'festival'],
     description: 'Christian festival celebrating the birth of Jesus Christ',
     active: true
   },
   {
     name: 'Republic Day',
-    date: new Date('2024-01-26'),
+    date: new Date('2025-01-26'),
     hashtags: ['republicday', 'india', 'patriotic', 'freedom', 'independence', 'proudindian', 'nationalfestival', 'festival'],
     description: 'Celebration of India becoming a republic',
     active: true
   },
   {
     name: 'Independence Day',
-    date: new Date('2024-08-15'),
+    date: new Date('2025-08-15'),
     hashtags: ['independenceday', 'india', 'patriotic', 'freedom', 'independence', 'proudindian', 'nationalfestival', 'festival'],
     description: 'Celebration of India\'s independence from British rule',
     active: true
   },
   {
     name: 'Ganesh Chaturthi',
-    date: new Date('2024-09-07'),
+    date: new Date('2025-09-07'),
     hashtags: ['ganeshchaturthi', 'ganpati', 'ganesh', 'festival', 'celebration', 'indianfestival', 'hindu', 'festival'],
     description: 'Festival celebrating the birth of Lord Ganesha',
     active: true
   },
   {
     name: 'Navratri',
-    date: new Date('2024-10-03'),
+    date: new Date('2025-10-03'),
     hashtags: ['navratri', 'dussehra', 'festival', 'celebration', 'indianfestival', 'hindu', 'festival', 'dance'],
     description: 'Nine nights of celebration dedicated to Goddess Durga',
     active: true
   },
   {
     name: 'Raksha Bandhan',
-    date: new Date('2024-08-19'),
+    date: new Date('2025-08-19'),
     hashtags: ['rakshabandhan', 'rakhi', 'festival', 'celebration', 'indianfestival', 'hindu', 'festival', 'brothersister'],
     description: 'Festival celebrating the bond between brothers and sisters',
     active: true
